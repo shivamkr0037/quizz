@@ -1,0 +1,10 @@
+[
+    {
+        "text": "*\\[1/15\\]* One’s cup of tea\\.\\\n\n*A*\\. One’s perception about someone\\.\\\n*B*\\. One’s hard-earned money\\.\\\n*C*\\. One's chosen or preferred thing\\.",
+        "correct_answer": 3,
+        "variants": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
